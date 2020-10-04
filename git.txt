@@ -1,0 +1,17 @@
+Create a repository
+05:07
+Making a git commit pull from host machine
+06:58
+New folder new files connected
+04:28
+creating a new branch
+04:31
+Merging pull requests
+03:06
+command line merge
+05:47
+Merge pull requests
+08:01
+Git logs history
+02:00
+Git reset

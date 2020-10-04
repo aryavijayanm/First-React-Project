@@ -1,0 +1,4 @@
+Welcome to Alpha Vantage! Your dedicated access key is: A3BQIP3QU072E2S2. Please record this API key for future access to Alpha Vantage.
+
+
+ A3BQIP3QU072E2S2
